@@ -5,4 +5,6 @@ HW1-Covid 19 prediction-----------Private score 1.02321      Public score 0.9834
 
 HW2 Phoneme Classification----------Private score 0.73525   Pulic score 0.73629
 
-HW3 Image Classification
+HW3 Image Classification   use main.py to train the model  
+                           use the predict.py to use the model to predict 
+                           
