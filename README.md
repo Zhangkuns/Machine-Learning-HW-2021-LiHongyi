@@ -29,4 +29,9 @@ all the model were saved in the sample_best.ckpt and use the predict.py for inst
 
 ----------Private score 0.79199   Pulic score 0.80824
 
+HW4 Speaker Identification
+
+change the transformer into conformer
+
+----------Private score 0.96055   Pulic score 0.95809
                            
