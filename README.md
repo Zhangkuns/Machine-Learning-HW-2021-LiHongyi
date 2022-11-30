@@ -34,4 +34,10 @@ HW4 Speaker Identification
 change the transformer into conformer
 
 ----------Private score 0.96055   Pulic score 0.95809
+
+HW6 Anime Face Generation
+
+follow the guide
+
+----------None
                            
