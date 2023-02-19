@@ -40,4 +40,8 @@ HW6 Anime Face Generation
 follow the guide
 
 ----------None
+
+HW7 Bert Question Answerong
+
+----------Private score 0.72841  Public score 0.72932
                            
