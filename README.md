@@ -44,4 +44,8 @@ follow the guide
 HW7 Bert Question Answerong
 
 ----------Private score 0.72841  Public score 0.72932
+
+HW8 Anomaly Detection
+
+----------Private score 0.76231  Public score 0.76309
                            
